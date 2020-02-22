@@ -7,29 +7,10 @@
 **Thoughts:** It is really boring as at the beggining its just basic syntax and more-or-so vocab of the programming language. Excited to see how I can implement it into my websites. 
 
 
-### Day []: 
+### Day 2: February 22, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Worked on a simple responsive Navigation bar to pratice on media queries
 
-**Thoughts:** 
+**Thoughts:** Media queries are starting to make more sense even though I think I should keep reviewing them to really get it down. I really like experimenting with varient colors and transitions animations in CSS
 
-
-### Day []: 
-
-**Today's Progress**: 
-
-**Thoughts:** 
-
-
-### Day []: 
-
-**Today's Progress**: 
-
-**Thoughts:** 
-
-
-### Day []: 
-
-**Today's Progress**: 
-
-**Thoughts:** 
+**Link:*** https://codepen.io/dapca/full/mdJOjeV
